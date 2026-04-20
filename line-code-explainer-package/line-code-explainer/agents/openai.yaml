@@ -1,0 +1,4 @@
+interface:
+  display_name: "Line Code Explainer"
+  short_description: "Explain code line by line with fixed layout"
+  default_prompt: "Use $line-code-explainer to explain this code screenshot line by line with fixed formatting."
